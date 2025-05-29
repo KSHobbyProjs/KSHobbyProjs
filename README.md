@@ -18,7 +18,7 @@ I'm always eager to deepen my understanding of physics and computation, and I us
 
 ## Selected Projects
 
--  [`cytosim-tools`](https://github.com/KSHobbyProjs/cytosim-tools) — Analysis and visualization scripts for simulating filament networks with the cytoskeletal simulation suite [Cytosim](https://gitlab.com/f-nedelec/cytosim) (courtesy of Nedelec, Belmonte, et al.)
+-  [`cytosim-analysis-kit`](https://github.com/KSHobbyProjs/cytosim-analysis-kit) — Analysis and visualization scripts for simulating filament networks with the cytoskeletal simulation suite [Cytosim](https://gitlab.com/f-nedelec/cytosim) (courtesy of Nedelec, Belmonte, et al.)
 -  [`square_well`](https://github.com/KSHobbyProjs/square_well) — Numerical solutions to the quantum square well using shooting methods
 -  [`planet_simulator`](https://github.com/KSHobbyProjs/planet_simulator) — Interactive orbital dynamics simulator
 
