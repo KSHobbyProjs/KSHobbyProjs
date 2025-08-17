@@ -26,7 +26,7 @@ I'm always eager to deepen my understanding of physics and computation, and I us
 
 ##  Technical Skills
 
-- **Languages**: Python, FORTRAN, LaTeX, Bash
+- **Languages**: Python, C++, FORTRAN, LaTeX, Bash
 - **Tools**: Git, Jupyter, NumPy/SciPy, Matplotlib, Cytosim
 - **Interests**: Quantum field theory, lattice methods, simulation-driven research, science communication
 
