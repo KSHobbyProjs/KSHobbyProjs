@@ -10,7 +10,6 @@ I'm always eager to deepen my understanding of physics and computation, and I us
 ---
 
 ##  Current Focus
-- Self-learning QFT through *Tong's Lecture Notes* and *Peskin & Schroeder*
 - Exploring **QFT-inspired models**, light-front methods, and field theory approaches to hadronic structure
 - Strengthening foundations in theoretical physics, computational methods, and scientific software design
 
