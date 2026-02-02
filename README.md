@@ -6,7 +6,6 @@ Alongside my academic work, I build tools and simulations that explore physical 
 
 I'm always eager to deepen my understanding of physics and computation, and I use this space to share what I’ve learned — and what I’m still learning — through projects and tools.
 
-
 ---
 
 ##  Current Focus
@@ -16,6 +15,7 @@ I'm always eager to deepen my understanding of physics and computation, and I us
 ---
 
 ## Selected Projects
+- [`pmm-analysis-kit`](https://github.com/KSHobbyProjs/pmm-analysis-kit) -- A toolkit for running parametric matrix models on physics systems.
 -  [`scalar-lattice-1d`](https://github.com/KSHobbyProjs/scalar-lattice-1d) -- A simulation of a 1+1D scalar lattice quantum field theory with a quartic coupling potential using Monte Carlo sampling techniques.
 -  [`cytosim-analysis-kit`](https://github.com/KSHobbyProjs/cytosim-analysis-kit) — Analysis and visualization scripts for simulating filament networks with the cytoskeletal simulation suite [Cytosim](https://gitlab.com/f-nedelec/cytosim) (courtesy of Nedelec, Belmonte, et al.)
 -  [`square_well`](https://github.com/KSHobbyProjs/square_well) — Numerical solutions to the quantum square well using shooting methods
