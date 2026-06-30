@@ -1,16 +1,10 @@
-# Hi, I'm Keanan Scarbro!
+# Keanan Scarbro
 
-I'm a physics graduate student at North Carolina State University interested in theoretical particle and nuclear physics, especially areas involving quantum field theory (QFT), quantum chromodynamics (QCD), and computational modeling.
+I'm a physics graduate student at North Carolina State University interested in theoretical particle and nuclear physics and computational modeling.
 
-Alongside my academic work, I build tools and simulations that explore physical systems — from cytoskeletal network dynamics to quantum mechanical models — often using Python, NumPy, and visualization libraries like Matplotlib. I enjoy coding and have also created hobby projects including games, webbots, and websites.
+My current research is on using reduced basis techniques like eigenvector continuation and ML-centric approaches like Parametric Matrix Models (PMMs) to predict the behavior of resonant states from limited information. I previously did a brief research stint looking at computational models of actomyosin networks. I place many of the projects created for research purposes here. The general goal of these projects was to make them as general and utility-focused as possible, but there are also several repositories filled almost entirely of analysis scripts / Jupyter Notebooks with no centralized structure.
 
-I'm always eager to deepen my understanding of physics and computation, and I use this space to share what I’ve learned — and what I’m still learning — through projects and tools.
-
----
-
-##  Current Focus
-- Exploring **QFT-inspired models**, light-front methods, and field theory approaches to hadronic structure
-- Strengthening foundations in theoretical physics, computational methods, and scientific software design
+I also create hobby projects including games, webbots, websites, and physics simulations outside of my research.
 
 ---
 
@@ -26,7 +20,4 @@ I'm always eager to deepen my understanding of physics and computation, and I us
 ##  Technical Skills
 
 - **Languages**: Python, C++, FORTRAN, LaTeX, Bash
-- **Tools**: Git, Jupyter, NumPy/SciPy, Matplotlib, Cytosim
-- **Interests**: Quantum field theory, lattice methods, simulation-driven research, science communication
-
 ---
