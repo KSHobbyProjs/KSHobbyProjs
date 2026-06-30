@@ -2,7 +2,7 @@
 
 I'm a physics graduate student at North Carolina State University interested in theoretical particle and nuclear physics and computational modeling.
 
-My current research is on using reduced basis techniques like eigenvector continuation and ML-centric approaches like Parametric Matrix Models (PMMs) to predict the behavior of resonant states from limited information. I previously did a brief research stint looking at computational models of actomyosin networks. I place many of the projects created for research purposes here. The general goal of these projects was to make them as general and utility-focused as possible, but there are also several repositories filled almost entirely of analysis scripts / Jupyter Notebooks with no centralized structure.
+My current research is on using reduced basis techniques like eigenvector continuation and ML-centric approaches like Parametric Matrix Models (PMMs) to predict the behavior of resonant states from limited information. I previously did a brief research stint looking at computational models of actomyosin networks. I place many of the projects created for these research purposes here. The general goal of these projects was to make them as general and utility-focused as possible, but there are also several repositories filled almost entirely of analysis scripts / Jupyter Notebooks with no centralized structure.
 
 I also create hobby projects including games, webbots, websites, and physics simulations outside of my research.
 
