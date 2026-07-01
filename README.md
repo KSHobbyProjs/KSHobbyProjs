@@ -17,7 +17,7 @@ I also create hobby projects including games, webbots, websites, and physics sim
 -  [`scalar-lattice-1d`](https://github.com/KSHobbyProjs/scalar-lattice-1d) -- A simulation of a 1+1D scalar lattice QFT with quartic coupling.
 -  [`cytosim-analysis-kit`](https://github.com/KSHobbyProjs/cytosim-analysis-kit) — Analysis and visualization scripts for simulating filament networks with the cytoskeletal simulation suite [Cytosim](https://gitlab.com/f-nedelec/cytosim) (Nedelec, Belmonte, et al.)
 -  [`planet_simulator`](https://github.com/KSHobbyProjs/planet_simulator) -- Interactive orbital dynamics simulator
--  [`brain-organizer`](https://github.com/KSHobbyProjs/brain-organizer) -- A program that uses locally-hosted sentence transformers to search for notes based on a query, cluster notes based on contextual similarity, and perform operations on imported note data,   
+-  [`brain-organizer`](https://github.com/KSHobbyProjs/brain-organizer) -- A program that uses locally-hosted sentence transformers to search for notes based on a query, cluster notes based on contextual similarity, and perform other operations on imported note data.   
 ---
 
 ##  Technical Skills
